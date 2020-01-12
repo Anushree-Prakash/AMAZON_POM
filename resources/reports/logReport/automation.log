@@ -1,0 +1,16 @@
+01/10/2020 04:56:59 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+01/10/2020 04:57:00 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+01/10/2020 04:57:00 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+01/10/2020 04:57:04 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+01/10/2020 04:57:07 PM - HomePageSearchProduct - INFO: Element Found with locator: (//span[text()='Apple iPhone XR (64GB) - Black'])[2] and  locatorType: xpath
+01/10/2020 04:57:07 PM - HomePageSearchProduct - INFO: Clicked on element with locator: (//span[text()='Apple iPhone XR (64GB) - Black'])[2] locatorType: xpath
+01/10/2020 04:57:11 PM - AddToCart - INFO: Element Found with locator: add-to-cart-button and  locatorType: id
+01/10/2020 04:57:13 PM - AddToCart - INFO: Clicked on element with locator: add-to-cart-button locatorType: id
+01/10/2020 04:58:33 PM - HomePageSearchProduct - INFO: Element Found with locator: twotabsearchtextbox and  locatorType: id
+01/10/2020 04:58:33 PM - HomePageSearchProduct - INFO: Sent data on element with locator: twotabsearchtextbox locatorType: id
+01/10/2020 04:58:33 PM - HomePageSearchProduct - INFO: Element Found with locator: //input[@value='Go'] and  locatorType: xpath
+01/10/2020 04:58:37 PM - HomePageSearchProduct - INFO: Clicked on element with locator: //input[@value='Go'] locatorType: xpath
+01/10/2020 04:58:40 PM - HomePageSearchProduct - INFO: Element Found with locator: (//span[text()='Apple iPhone XR (64GB) - Black'])[2] and  locatorType: xpath
+01/10/2020 04:58:40 PM - HomePageSearchProduct - INFO: Clicked on element with locator: (//span[text()='Apple iPhone XR (64GB) - Black'])[2] locatorType: xpath
+01/10/2020 04:58:44 PM - AddToCart - INFO: Element Found with locator: add-to-cart-button and  locatorType: id
+01/10/2020 04:58:47 PM - AddToCart - INFO: Clicked on element with locator: add-to-cart-button locatorType: id
